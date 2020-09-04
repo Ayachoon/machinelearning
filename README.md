@@ -1,1 +1,1 @@
-# Beginners level project using Pandas and machine learning models
+# Beginner level projects using Pandas and machine learning models
